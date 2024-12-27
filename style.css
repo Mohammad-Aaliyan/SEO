@@ -122,7 +122,7 @@ header .fa-shopping-cart{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background-image:url('/Nail-Art\ Website/img/Header\ Image.png');
+    background-image:url('/img/Header\ Image.png');
     background-size: cover;
     background-position: center;
 }
